@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**dahbi249/dahbi249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Abderrahmane Dahbi**, a Master's student in Artificial Intelligence 🇩🇿
 
-Here are some ideas to get you started:
+🎓 Master 2 in Artificial Intelligence  
+🤖 Interested in AI, Deep Learning, and Computer Vision  
+🚀 Founder of DA TECH SCHOOL & President of Smart Bytes  
+🔭 Currently working on AI projects and my Master's thesis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+Python · PyTorch · OpenCV · PHP · MySQL · HTML · CSS · JavaScript
+
+### 📫 Connect with me
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/abderrahmane-dahbi/)) · [GitHub](https://github.com/dahbi249)
+
